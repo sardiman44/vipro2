@@ -147,7 +147,7 @@ groupMessage ="""
 ║    〽️ line.me/ti/p/~gjxvipro 〽️
 ╚═════════════════════════
 """
-vip="uda936836a9869eb86ec8ab992a4e8979"
+vip="ua6c3df5aac33852251f8acee1bab0b50"
 
 setMessage ="""
 ╔═════════════════════════
@@ -252,8 +252,8 @@ helpMessage ="""
 KAC=[vipro]
 mid = vipro.getProfile().mid
 Bots=[mid]
-Creator=["uda936836a9869eb86ec8ab992a4e8979"]
-admin=["uda936836a9869eb86ec8ab992a4e8979"]
+Creator=["ua6c3df5aac33852251f8acee1bab0b50"]
+admin=["ua6c3df5aac33852251f8acee1bab0b50"]
 
 contact = vipro.getProfile()
 backup1 = vipro.getProfile()
